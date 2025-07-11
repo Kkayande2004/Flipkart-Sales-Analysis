@@ -3,11 +3,9 @@
 The objective of this project is to create an interactive sales analysis dashboard for Flipkart to help the store track its sales performance, customer buying behavior, and payment preferences across different regions and product categories during a specific period. This report will assist in identifying high-performing categories, regions, and customer trends to support business growth.
 
 ## Dataset Used
-Dataset Name: Flipkart Sales Data (2023)
+<a href="https://github.com/Kkayande2004/Flipkart-Sales-Analysis/blob/main/flipkart_sales_data.xlsx">Dataset</a>
 
-Format: Excel (.xlsx)
-
-## Key Questions / KPIs Addressed
+## Key Questions 
 - What are the total sales, average sales, average rating, and total quantity sold?
 
 - Which product categories are generating the highest sales amount?
