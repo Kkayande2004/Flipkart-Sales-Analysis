@@ -82,6 +82,9 @@ Regional Sales Coverage:
 
 Sales plotted on a map with regional sales amounts.
 
+## Screenshot
+<a href="https://github.com/Kkayande2004/Flipkart-Sales-Analysis/blob/main/Screenshot%202025-07-11%20140120.png">DashboardImage</a>
+
 ## Project Insights
 Grocery and Beauty & Health categories contribute most to total sales.
 
